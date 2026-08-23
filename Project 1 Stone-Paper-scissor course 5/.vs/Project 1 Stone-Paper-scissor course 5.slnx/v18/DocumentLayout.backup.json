@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Project 1 Stone-Paper-scissor course 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5179E97D-458D-4745-B69F-1132BE0FF14A}|Project 1 Stone-Paper-scissor course 5\\Project 1 Stone-Paper-scissor course 5.vcxproj|C:\\Users\\ASUS\\source\\repos\\Project 1 Stone-Paper-scissor course 5\\Project 1 Stone-Paper-scissor course 5\\Project 1 Stone-Paper-scissor course 5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5179E97D-458D-4745-B69F-1132BE0FF14A}|Project 1 Stone-Paper-scissor course 5\\Project 1 Stone-Paper-scissor course 5.vcxproj|solutionrelative:Project 1 Stone-Paper-scissor course 5\\Project 1 Stone-Paper-scissor course 5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project 1 Stone-Paper-scissor course 5.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Project 1 Stone-Paper-scissor course 5\\Project 1 Stone-Paper-scissor course 5\\Project 1 Stone-Paper-scissor course 5.cpp",
+              "RelativeDocumentMoniker": "Project 1 Stone-Paper-scissor course 5\\Project 1 Stone-Paper-scissor course 5.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Project 1 Stone-Paper-scissor course 5\\Project 1 Stone-Paper-scissor course 5\\Project 1 Stone-Paper-scissor course 5.cpp",
+              "RelativeToolTip": "Project 1 Stone-Paper-scissor course 5\\Project 1 Stone-Paper-scissor course 5.cpp",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAALgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-19T13:03:54.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
