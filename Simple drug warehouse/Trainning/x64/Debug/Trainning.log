@@ -1,0 +1,8 @@
+﻿  Trainning.cpp
+C:\Users\ASUS\source\repos\Trainning\Trainning\Trainning.cpp(50,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\Trainning\Trainning\Trainning.cpp(62,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\Trainning\Trainning\Trainning.cpp(74,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\Trainning\Trainning\Trainning.cpp(86,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\Trainning\Trainning\Trainning.cpp(98,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\Trainning\Trainning\Trainning.cpp(110,6): warning C4101: 'Number': unreferenced local variable
+  Trainning.vcxproj -> C:\Users\ASUS\source\repos\Trainning\x64\Debug\Trainning.exe
