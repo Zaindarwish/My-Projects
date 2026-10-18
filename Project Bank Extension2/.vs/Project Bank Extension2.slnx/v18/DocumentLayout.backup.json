@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Course08 - Algorithms \u0026 Problem Solving Level 4\\Project Bank Extension2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9086DF57-3B6D-42C7-911B-FC063849AE6F}|Project Bank Extension2\\Project Bank Extension2.vcxproj|C:\\Users\\ASUS\\source\\repos\\Course08 - Algorithms \u0026 Problem Solving Level 4\\Project Bank Extension2\\Project Bank Extension2\\Project Bank Extension2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9086DF57-3B6D-42C7-911B-FC063849AE6F}|Project Bank Extension2\\Project Bank Extension2.vcxproj|solutionrelative:Project Bank Extension2\\Project Bank Extension2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project Bank Extension2.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Course08 - Algorithms \u0026 Problem Solving Level 4\\Project Bank Extension2\\Project Bank Extension2\\Project Bank Extension2.cpp",
+              "RelativeDocumentMoniker": "Project Bank Extension2\\Project Bank Extension2.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Course08 - Algorithms \u0026 Problem Solving Level 4\\Project Bank Extension2\\Project Bank Extension2\\Project Bank Extension2.cpp",
+              "RelativeToolTip": "Project Bank Extension2\\Project Bank Extension2.cpp",
+              "ViewState": "AgIAAKoEAAAAAAAAAAAAAHcEAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-10T11:58:44.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿  Project ATM.cpp
+C:\Users\ASUS\source\repos\Course08 - Algorithms & Problem Solving Level 4\Project ATM\Project ATM\Project ATM.cpp(42,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\ASUS\source\repos\Course08 - Algorithms & Problem Solving Level 4\Project ATM\Project ATM\Project ATM.cpp(326,13): warning C5334: named universal characters require at least '/std:c++23preview'
+C:\Users\ASUS\source\repos\Course08 - Algorithms & Problem Solving Level 4\Project ATM\Project ATM\Project ATM.cpp(336,13): warning C4129: 'Q': unrecognized character escape sequence
+C:\Users\ASUS\source\repos\Course08 - Algorithms & Problem Solving Level 4\Project ATM\Project ATM\Project ATM.cpp(190,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Project ATM.vcxproj -> C:\Users\ASUS\source\repos\Course08 - Algorithms & Problem Solving Level 4\Project ATM\x64\Debug\Project ATM.exe
